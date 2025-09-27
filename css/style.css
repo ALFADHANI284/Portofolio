@@ -374,7 +374,7 @@ article p {
 }
 
 .dwn:hover {
-  border: 1px solid black;
+  border: 1px solid #00b4f0;
   background-color: white;
   color: black;
 }
@@ -409,3 +409,4 @@ article p {
   margin-left: 3rem;
   margin-top: 14rem;
 }
+
